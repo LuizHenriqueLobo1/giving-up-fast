@@ -4,9 +4,12 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"scr_keyboards","path":"scripts/scr_keyboards/scr_keyboards.yy",},"order":0,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
+    {"id":{"name":"font1","path":"fonts/font1/font1.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":2,},
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":3,},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},"order":2,},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
     {"id":{"name":"room1","path":"rooms/room1/room1.yy",},"order":0,},
   ],
   "Options": [
@@ -21,6 +24,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"room0","path":"rooms/room0/room0.yy",},
     {"name":"room1","path":"rooms/room1/room1.yy",},
   ],
   "Folders": [
