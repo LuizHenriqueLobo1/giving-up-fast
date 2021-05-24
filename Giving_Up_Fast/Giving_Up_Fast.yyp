@@ -3,6 +3,7 @@
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
     {"id":{"name":"scr_death","path":"scripts/scr_death/scr_death.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_generator_sensor","path":"sprites/spr_generator_sensor/spr_generator_sensor.yy",},"order":7,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":4,},
     {"id":{"name":"obj_enemy_block","path":"objects/obj_enemy_block/obj_enemy_block.yy",},"order":5,},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},"order":2,},
