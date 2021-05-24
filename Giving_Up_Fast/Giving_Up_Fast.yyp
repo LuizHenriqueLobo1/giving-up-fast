@@ -1,9 +1,13 @@
 {
   "resources": [
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
+    {"id":{"name":"scr_death","path":"scripts/scr_death/scr_death.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":4,},
+    {"id":{"name":"obj_enemy_block","path":"objects/obj_enemy_block/obj_enemy_block.yy",},"order":5,},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},"order":2,},
     {"id":{"name":"scr_keyboards","path":"scripts/scr_keyboards/scr_keyboards.yy",},"order":0,},
+    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":5,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
     {"id":{"name":"scr_next_room","path":"scripts/scr_next_room/scr_next_room.yy",},"order":3,},
     {"id":{"name":"font1","path":"fonts/font1/font1.yy",},"order":0,},
@@ -11,7 +15,9 @@
     {"id":{"name":"spr_sensor","path":"sprites/spr_sensor/spr_sensor.yy",},"order":4,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":3,},
+    {"id":{"name":"spr_enemy_block","path":"sprites/spr_enemy_block/spr_enemy_block.yy",},"order":6,},
     {"id":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},"order":3,},
+    {"id":{"name":"scr_enemy_movement","path":"scripts/scr_enemy_movement/scr_enemy_movement.yy",},"order":4,},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},"order":2,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
     {"id":{"name":"room1","path":"rooms/room1/room1.yy",},"order":0,},
