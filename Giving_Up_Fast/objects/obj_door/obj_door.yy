@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_sensor",
-    "path": "sprites/spr_sensor/spr_sensor.yy",
+    "name": "spr_door",
+    "path": "sprites/spr_door/spr_door.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_block",
+    "path": "objects/obj_block/obj_block.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_sensor",
+  "name": "obj_door",
   "tags": [],
   "resourceType": "GMObject",
 }
