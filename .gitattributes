@@ -1,4 +1,1 @@
-* linguist-vendored
-*.gml linguist-vendored=true
-*.gml linguist-vendored=true
 *.yy linguist-detectable=false
