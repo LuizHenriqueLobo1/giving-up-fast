@@ -7,7 +7,6 @@
     {"id":{"name":"spr_generator_sensor","path":"sprites/spr_generator_sensor/spr_generator_sensor.yy",},"order":7,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":4,},
     {"id":{"name":"obj_enemy_block","path":"objects/obj_enemy_block/obj_enemy_block.yy",},"order":5,},
-    {"id":{"name":"spr_checkpoint","path":"sprites/spr_checkpoint/spr_checkpoint.yy",},"order":11,},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},"order":2,},
     {"id":{"name":"font2","path":"fonts/font2/font2.yy",},"order":1,},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":9,},
