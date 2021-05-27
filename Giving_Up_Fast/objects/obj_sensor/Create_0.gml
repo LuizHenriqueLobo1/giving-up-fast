@@ -1,1 +1,0 @@
-estado_de_visibilidade = 1;
