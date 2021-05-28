@@ -1,3 +1,3 @@
-target_room = room_main_menu;
-x_player_room = 0;
-y_player_room = 0;
+target_room = room4;
+x_player_room = 80;
+y_player_room = 80;
