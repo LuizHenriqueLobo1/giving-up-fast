@@ -1,3 +1,3 @@
 if(keyboard_check_pressed(vk_enter)) {
-	room_goto(room1);
+	room_goto(room5);
 }
