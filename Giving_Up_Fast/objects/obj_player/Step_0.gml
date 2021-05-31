@@ -2,4 +2,4 @@ scr_keyboards();
 scr_move();
 scr_collision();
 scr_death();
-scr_back_menu();
+scr_pause();

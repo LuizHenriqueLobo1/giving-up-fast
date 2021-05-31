@@ -5,3 +5,8 @@ function scr_next_room() {
 		obj_player.y = y_player_room;
 	}
 }
+
+function scr_come_room1() {
+	if(keyboard_check_pressed(vk_enter))
+		room_goto(room1);
+}
