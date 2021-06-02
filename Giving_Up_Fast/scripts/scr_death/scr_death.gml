@@ -1,7 +1,7 @@
 function scr_death() {
 	if(place_meeting(x, y, obj_enemy)) {
 		room_goto(room_game_over);
-		global.qtd_deaths++;		
+		global.qtd_deaths++;
 	}
 }
 
