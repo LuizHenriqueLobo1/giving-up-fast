@@ -3,9 +3,6 @@ function scr_death() {
 		room_goto(room_game_over);
 		global.qtd_deaths++;		
 	}
-	
-	if((room == room_main_menu) or (room == room_game_over) or (room == room_pause))
-		instance_destroy(obj_player);
 }
 
 function scr_pause() {
