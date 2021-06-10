@@ -1,1 +1,1 @@
-scr_come_room1();
+scr_come_current_room();
