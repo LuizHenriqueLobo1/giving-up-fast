@@ -1,6 +1,3 @@
-draw_set_font(font2);
+draw_set_font(font4);
 draw_set_color(c_purple);
-draw_text(394, 258, "GIVING\n    UP\n  FAST");
-draw_set_font(font1);
-draw_set_color(c_grey);
-draw_text(345, 550, "PRESS <ENTER> TO PLAY");
+draw_text(192, 278, "GIVING UP FAST");
