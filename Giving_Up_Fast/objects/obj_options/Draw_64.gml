@@ -1,0 +1,15 @@
+draw_set_font(font2);
+draw_set_color(c_purple);
+draw_text(352, 150, "OPTIONS");
+draw_set_font(font1);
+draw_set_color(c_grey);
+draw_text(288, 220, "PRESS <ENTER> TO BACK MENU");
+draw_set_font(font2);
+draw_set_color(c_red);
+draw_text(288, 312, "W\nA\nS\nD");
+draw_set_font(font1);
+draw_set_color(c_grey);
+draw_text(400, 348, "MOVE UP");
+draw_text(400, 424, "MOVE LEFT");
+draw_text(400, 500, "MOVE DOWN");
+draw_text(400, 576, "MOVE RIGHT");

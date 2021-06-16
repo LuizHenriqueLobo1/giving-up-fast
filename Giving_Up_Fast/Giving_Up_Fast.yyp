@@ -11,6 +11,7 @@
     {"id":{"name":"font2","path":"fonts/font2/font2.yy",},"order":1,},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":9,},
     {"id":{"name":"scr_keyboards","path":"scripts/scr_keyboards/scr_keyboards.yy",},"order":0,},
+    {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},"order":15,},
     {"id":{"name":"scr_menu","path":"scripts/scr_menu/scr_menu.yy",},"order":10,},
     {"id":{"name":"obj_key_false","path":"objects/obj_key_false/obj_key_false.yy",},"order":10,},
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},"order":12,},
