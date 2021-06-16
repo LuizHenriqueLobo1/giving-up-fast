@@ -3,7 +3,8 @@ menu_y = 458;
 button_h = 32;
 
 button[0] = "NEW GAME";
-button[1] = "     QUIT";
+button[1] = "  OPTIONS";
+button[2] = "     QUIT";
 
 buttons = array_length_1d(button);
 
