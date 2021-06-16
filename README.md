@@ -7,6 +7,13 @@ Meu novo jogo desenvolvido no GameMaker Studio 2.
 Um jogo em 2D, com mecânicas simples, visão isómetrica e dificuldade desafiadora.
 Desenvolvido no GameMakerStudio 2, usando linguagem GML.
 
+## Imagens
+
+Menu Principal
+![Giving Up Fast Main Menu](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/imagens/tela_menu_inicial.PNG)  
+
+Gameplay
+![Giving Up Fast Gameplay](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/imagens/tela_gameplay1.PNG)
 
 ### Como contribuir?
 
