@@ -1,6 +1,10 @@
 switch(menu_index) {
 	case 0: {
 		room_goto(room1);
+		global.checkpoint = noone;
+		global.checkpointR = 0;
+		global.checkpointX = 0;
+		global.checkpointY = 0;
 		break;
 	}
 	
