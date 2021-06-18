@@ -1,8 +1,9 @@
 draw_set_font(font2);
 draw_set_color(c_purple);
-draw_text(352, 150, "OPTIONS");
+draw_text(352, 120, "OPTIONS");
 draw_set_font(font1);
 draw_set_color(c_grey);
+draw_text(208, 190, "PRESS <ENTER> TO CHANGE PLAYER COLOR");
 draw_text(292, 220, "PRESS <ESC> TO BACK MENU");
 draw_set_font(font2);
 draw_set_color(c_red);

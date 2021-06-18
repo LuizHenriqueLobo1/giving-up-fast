@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
     {"id":{"name":"scr_death","path":"scripts/scr_death/scr_death.yy",},"order":5,},
+    {"id":{"name":"room_change_player_color","path":"rooms/room_change_player_color/room_change_player_color.yy",},"order":11,},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":8,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"room5","path":"rooms/room5/room5.yy",},"order":6,},
@@ -29,6 +30,7 @@
     {"id":{"name":"scr_open_door","path":"scripts/scr_open_door/scr_open_door.yy",},"order":7,},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},"order":10,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":2,},
+    {"id":{"name":"obj_change_player_color","path":"objects/obj_change_player_color/obj_change_player_color.yy",},"order":16,},
     {"id":{"name":"tl_background","path":"tilesets/tl_background/tl_background.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":3,},
     {"id":{"name":"scr_buffs","path":"scripts/scr_buffs/scr_buffs.yy",},"order":8,},
@@ -78,6 +80,7 @@
     {"roomId":{"name":"room4","path":"rooms/room4/room4.yy",},},
     {"roomId":{"name":"room5","path":"rooms/room5/room5.yy",},},
     {"roomId":{"name":"room6","path":"rooms/room6/room6.yy",},},
+    {"roomId":{"name":"room_change_player_color","path":"rooms/room_change_player_color/room_change_player_color.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

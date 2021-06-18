@@ -1,0 +1,1 @@
+room_goto(room_change_player_color);
