@@ -16,6 +16,7 @@
     {"id":{"name":"obj_key_false","path":"objects/obj_key_false/obj_key_false.yy",},"order":10,},
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},"order":12,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":5,},
+    {"id":{"name":"room6","path":"rooms/room6/room6.yy",},"order":10,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
     {"id":{"name":"scr_next_room","path":"scripts/scr_next_room/scr_next_room.yy",},"order":3,},
     {"id":{"name":"obj_speed_boost","path":"objects/obj_speed_boost/obj_speed_boost.yy",},"order":11,},
@@ -76,6 +77,7 @@
     {"roomId":{"name":"room3","path":"rooms/room3/room3.yy",},},
     {"roomId":{"name":"room4","path":"rooms/room4/room4.yy",},},
     {"roomId":{"name":"room5","path":"rooms/room5/room5.yy",},},
+    {"roomId":{"name":"room6","path":"rooms/room6/room6.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

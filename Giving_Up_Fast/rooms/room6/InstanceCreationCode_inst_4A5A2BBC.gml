@@ -1,0 +1,1 @@
+id_door = inst_32AEED78;
