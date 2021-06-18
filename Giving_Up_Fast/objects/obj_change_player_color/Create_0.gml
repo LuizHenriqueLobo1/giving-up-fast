@@ -5,7 +5,7 @@ button_h = 80;
 button[0] = "PURPLE";
 button[1] = "GREEN";
 button[2] = "YELLOW";
-button[3] = "BLUE";
+button[3] = "WHITE";
 
 buttons = array_length_1d(button);
 

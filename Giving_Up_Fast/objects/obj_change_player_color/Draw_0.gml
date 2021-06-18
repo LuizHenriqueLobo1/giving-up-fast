@@ -12,7 +12,7 @@ repeat(buttons) {
 		else if(menu_index == 2)
 			draw_set_color(c_olive);
 		else
-			draw_set_color(c_teal);
+			draw_set_color(c_silver);
 	}
 	
 	draw_text(menu_x, menu_y + button_h * i, button[i]);
