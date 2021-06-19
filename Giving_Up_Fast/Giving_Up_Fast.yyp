@@ -51,7 +51,9 @@
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},"order":2,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":9,},
     {"id":{"name":"obj_checkpoint","path":"objects/obj_checkpoint/obj_checkpoint.yy",},"order":13,},
+    {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},"order":17,},
     {"id":{"name":"room_options","path":"rooms/room_options/room_options.yy",},"order":8,},
+    {"id":{"name":"room_controls","path":"rooms/room_controls/room_controls.yy",},"order":12,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":15,},
     {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},"order":1,},
     {"id":{"name":"scr_player_effects","path":"scripts/scr_player_effects/scr_player_effects.yy",},"order":9,},
@@ -82,6 +84,7 @@
     {"roomId":{"name":"room5","path":"rooms/room5/room5.yy",},},
     {"roomId":{"name":"room6","path":"rooms/room6/room6.yy",},},
     {"roomId":{"name":"room_change_player_color","path":"rooms/room_change_player_color/room_change_player_color.yy",},},
+    {"roomId":{"name":"room_controls","path":"rooms/room_controls/room_controls.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

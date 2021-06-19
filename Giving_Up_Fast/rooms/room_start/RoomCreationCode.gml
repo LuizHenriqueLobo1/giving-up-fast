@@ -1,3 +1,4 @@
+global.pattern_keyboards = 1;
 global.current_room = noone;
 global.qtd_deaths = 0;
 global.checkpoint = noone;

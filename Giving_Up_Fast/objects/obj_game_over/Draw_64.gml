@@ -1,10 +1,10 @@
 draw_set_font(font2);
 draw_set_color(c_red);
-draw_text(300, 320, "GAME OVER");
+draw_text(512, 320, "GAME OVER");
 draw_set_font(font1);
 draw_set_color(c_grey);
-draw_text(295, 400, "PRESS <ENTER> TO CONTINUE");
+draw_text(516, 372, "PRESS <ENTER> TO CONTINUE");
 draw_set_font(font3);
-draw_text(900, 725, "DEATHS:");
+draw_text(938, 734, "DEATHS:");
 draw_set_color(c_red);
-draw_text(995, 725, global.qtd_deaths);
+draw_text(1004, 734, global.qtd_deaths);

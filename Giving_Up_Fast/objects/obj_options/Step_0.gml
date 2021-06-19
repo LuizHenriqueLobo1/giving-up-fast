@@ -1,1 +1,1 @@
-scr_come_main_menu();
+scr_menu();
