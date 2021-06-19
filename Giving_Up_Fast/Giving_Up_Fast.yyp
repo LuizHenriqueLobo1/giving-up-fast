@@ -52,6 +52,7 @@
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":9,},
     {"id":{"name":"obj_checkpoint","path":"objects/obj_checkpoint/obj_checkpoint.yy",},"order":13,},
     {"id":{"name":"room_options","path":"rooms/room_options/room_options.yy",},"order":8,},
+    {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":15,},
     {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},"order":1,},
     {"id":{"name":"scr_player_effects","path":"scripts/scr_player_effects/scr_player_effects.yy",},"order":9,},
     {"id":{"name":"obj_player_spawn","path":"objects/obj_player_spawn/obj_player_spawn.yy",},"order":7,},
