@@ -4,3 +4,5 @@ if(keyboard_check_pressed(vk_enter)) {
 	else
 		room_goto(room1);
 }
+
+scr_come_main_menu();

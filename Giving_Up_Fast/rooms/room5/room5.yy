@@ -200,8 +200,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Levels Romms",
+    "path": "folders/Rooms/Levels Romms.yy",
   },
   "resourceVersion": "1.0",
   "name": "room5",

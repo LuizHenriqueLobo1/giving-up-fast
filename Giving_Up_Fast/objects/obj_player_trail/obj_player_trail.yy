@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Player Objects",
+    "path": "folders/Objects/Player Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_player_trail",

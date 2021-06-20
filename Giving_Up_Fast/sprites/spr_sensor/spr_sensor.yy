@@ -73,8 +73,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Objects Sprites",
+    "path": "folders/Sprites/Objects Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sensor",
