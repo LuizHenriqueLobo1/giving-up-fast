@@ -24,6 +24,12 @@ switch(menu_index) {
 	}
 	
 	case 4: {
+		global.player_color = 5;
+		global.player_trail_color = 5;
+		break;
+	}
+	
+	case 5: {
 		room_goto(room_options);
 		break;
 	}

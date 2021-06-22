@@ -18,5 +18,7 @@ else if(global.player_color == 2)
 	image_index = 1;
 else if(global.player_color == 3)
 	image_index = 2;
-else
+else if(global.player_color == 4)
 	image_index = 3;
+else
+	image_index = 4;

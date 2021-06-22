@@ -11,6 +11,8 @@ else if(global.player_color == 2)
 	draw_sprite(spr_arrow, 0, 432, 520);
 else if(global.player_color == 3)
 	draw_sprite(spr_arrow, 0, 432, 456);
-else
+else if(global.player_color == 4)
 	draw_sprite(spr_arrow, 0, 432, 552);
+else
+	draw_sprite(spr_arrow, 0, 432, 584);
 	
