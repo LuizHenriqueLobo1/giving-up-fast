@@ -16,3 +16,7 @@ else if(global.player_color == 4)
 else
 	draw_sprite(spr_arrow, 0, 432, 584);
 	
+if(global.color_white == false)
+	draw_sprite(spr_lock, 0, 590, 552);
+if(global.color_blue == false)
+	draw_sprite(spr_lock, 0, 590, 584);

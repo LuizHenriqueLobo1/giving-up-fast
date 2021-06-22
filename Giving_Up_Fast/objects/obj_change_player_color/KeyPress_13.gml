@@ -18,14 +18,18 @@ switch(menu_index) {
 	}
 
 	case 3: {
-		global.player_color = 4;
-		global.player_trail_color = 4;
+		if(global.color_white == true) {
+			global.player_color = 4;
+			global.player_trail_color = 4;
+		}
 		break;
 	}
 	
 	case 4: {
-		global.player_color = 5;
-		global.player_trail_color = 5;
+		if(global.color_blue == true) {
+			global.player_color = 5;
+			global.player_trail_color = 5;
+		}
 		break;
 	}
 	

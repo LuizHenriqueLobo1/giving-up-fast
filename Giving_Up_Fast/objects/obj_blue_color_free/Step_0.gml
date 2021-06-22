@@ -1,0 +1,6 @@
+image_alpha = 0;
+
+if(place_meeting(x, y, obj_player)) {
+	global.color_blue = true;
+	instance_destroy();
+}

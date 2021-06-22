@@ -7,5 +7,7 @@ global.checkpointX = 0;
 global.checkpointY = 0;
 global.player_color = 1;
 global.player_trail_color = 1;
+global.color_white = false;
+global.color_blue = false;
 
 room_goto(room_main_menu);
