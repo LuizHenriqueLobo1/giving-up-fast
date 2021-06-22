@@ -5,3 +5,5 @@ scr_death();
 scr_pause();
 scr_buffs();
 scr_player_effects();
+
+global.current_room = room;

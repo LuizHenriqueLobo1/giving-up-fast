@@ -1,12 +1,9 @@
 {
-  "spriteId": {
-    "name": "spr_sensor",
-    "path": "sprites/spr_sensor/spr_sensor.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -21,17 +18,18 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Mechanical Objects",
-    "path": "folders/Objects/Mechanical Objects.yy",
+    "name": "Effects Objects",
+    "path": "folders/Objects/Effects Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_sensor",
+  "name": "obj_fade_room",
   "tags": [],
   "resourceType": "GMObject",
 }
