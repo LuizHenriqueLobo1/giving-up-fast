@@ -13,6 +13,7 @@
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":5,},
     {"id":{"name":"scr_keyboards","path":"scripts/scr_keyboards/scr_keyboards.yy",},"order":0,},
     {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},"order":2,},
+    {"id":{"name":"obj_part_effects","path":"objects/obj_part_effects/obj_part_effects.yy",},"order":0,},
     {"id":{"name":"scr_menu","path":"scripts/scr_menu/scr_menu.yy",},"order":10,},
     {"id":{"name":"obj_key_false","path":"objects/obj_key_false/obj_key_false.yy",},"order":6,},
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},"order":3,},
@@ -113,6 +114,7 @@
     {"folderPath":"folders/Sprites/Objects Sprites.yy","order":17,"resourceVersion":"1.0","name":"Objects Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Others Sprites.yy","order":18,"resourceVersion":"1.0","name":"Others Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Player Sprites.yy","order":19,"resourceVersion":"1.0","name":"Player Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Effects Objects.yy","order":21,"resourceVersion":"1.0","name":"Effects Objects","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

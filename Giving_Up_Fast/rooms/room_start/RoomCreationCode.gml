@@ -10,4 +10,7 @@ global.player_trail_color = 1;
 global.color_white = false;
 global.color_blue = false;
 
+global.part_system = part_system_create();
+part_system_depth(global.part_system, -100);
+
 room_goto(room_main_menu);
