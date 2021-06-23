@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Objects Sprites",
-    "path": "folders/Sprites/Objects Sprites.yy",
+    "name": "Enemys Sprites",
+    "path": "folders/Sprites/Enemys Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_enemy",
