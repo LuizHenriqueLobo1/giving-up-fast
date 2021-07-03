@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_checked","path":"sprites/spr_checked/spr_checked.yy",},"order":2,},
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
     {"id":{"name":"obj_enemy_dust","path":"objects/obj_enemy_dust/obj_enemy_dust.yy",},"order":1,},
     {"id":{"name":"spr_enemy_dust","path":"sprites/spr_enemy_dust/spr_enemy_dust.yy",},"order":1,},
@@ -64,6 +65,7 @@
     {"id":{"name":"room_controls","path":"rooms/room_controls/room_controls.yy",},"order":2,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":0,},
     {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},"order":0,},
+    {"id":{"name":"spr_negative","path":"sprites/spr_negative/spr_negative.yy",},"order":3,},
     {"id":{"name":"obj_fade_room","path":"objects/obj_fade_room/obj_fade_room.yy",},"order":1,},
     {"id":{"name":"spr_lock","path":"sprites/spr_lock/spr_lock.yy",},"order":1,},
     {"id":{"name":"scr_player_effects","path":"scripts/scr_player_effects/scr_player_effects.yy",},"order":9,},
