@@ -2,8 +2,9 @@ menu_x = 512;
 menu_y = 458;
 button_h = 32;
 
-button[0] = "FULL SCREEN"
-button[1] = "BACK";
+button[0] = "FULL SCREEN";
+button[1] = "ENEMY PARTICLES";
+button[2] = "BACK";
 
 buttons = array_length_1d(button);
 

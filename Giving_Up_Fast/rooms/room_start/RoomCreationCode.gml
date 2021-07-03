@@ -9,6 +9,7 @@ global.player_color = 1;
 global.player_trail_color = 1;
 global.color_white = false;
 global.color_blue = false;
+global.enemy_particles = 1;
 
 global.part_system = part_system_create();
 part_system_depth(global.part_system, -100);

@@ -9,3 +9,8 @@ if(fullscreen)
 	draw_sprite(spr_checked, 0, 400, 456);
 else 
 	draw_sprite(spr_negative, 0, 400, 456);
+
+if(global.enemy_particles == 1)
+	draw_sprite(spr_checked, 0, 366, 488);
+else
+	draw_sprite(spr_negative, 0, 366, 490);
