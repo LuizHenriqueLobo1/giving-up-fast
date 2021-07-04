@@ -4,6 +4,7 @@ scr_collision();
 scr_death();
 scr_pause();
 scr_buffs();
-scr_player_effects();
+if(global.player_trail == 1)
+	scr_player_effects();
 
 global.current_room = room;

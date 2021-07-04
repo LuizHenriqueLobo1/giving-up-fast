@@ -14,3 +14,8 @@ if(global.enemy_particles == 1)
 	draw_sprite(spr_checked, 0, 366, 488);
 else
 	draw_sprite(spr_negative, 0, 366, 490);
+	
+if(global.player_trail == 1)
+	draw_sprite(spr_checked, 0, 398, 520);
+else
+	draw_sprite(spr_negative, 0, 398, 522);

@@ -4,7 +4,8 @@ button_h = 32;
 
 button[0] = "FULL SCREEN";
 button[1] = "ENEMY PARTICLES";
-button[2] = "BACK";
+button[2] = "PLAYER TRAIL";
+button[3] = "BACK";
 
 buttons = array_length_1d(button);
 
