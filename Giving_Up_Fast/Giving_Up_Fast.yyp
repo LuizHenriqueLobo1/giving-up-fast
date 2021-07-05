@@ -33,6 +33,7 @@
     {"id":{"name":"spr_sensor","path":"sprites/spr_sensor/spr_sensor.yy",},"order":6,},
     {"id":{"name":"room_pause","path":"rooms/room_pause/room_pause.yy",},"order":5,},
     {"id":{"name":"scr_open_door","path":"scripts/scr_open_door/scr_open_door.yy",},"order":7,},
+    {"id":{"name":"sou_click","path":"sounds/sou_click/sou_click.yy",},"order":1,},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},"order":2,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":0,},
     {"id":{"name":"obj_change_player_color","path":"objects/obj_change_player_color/obj_change_player_color.yy",},"order":4,},
