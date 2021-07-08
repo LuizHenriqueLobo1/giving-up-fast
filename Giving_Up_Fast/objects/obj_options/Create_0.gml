@@ -1,11 +1,12 @@
 menu_x = 512;
-menu_y = 458;
+menu_y = 420;
 button_h = 32;
 
-button[0] = "GRAPHICS"
-button[1] = "CHANGE PLAYER COLOR";
-button[2] = "CONTROLS PATTERN";
-button[3] = "BACK";
+button[0] = "SOUNDS";
+button[1] = "GRAPHICS";
+button[2] = "CHANGE PLAYER COLOR";
+button[3] = "CONTROLS PATTERN";
+button[4] = "BACK";
 
 buttons = array_length_1d(button);
 
