@@ -13,8 +13,8 @@
   "soundFile": "sou_generate_key.wav",
   "duration": 1.320193,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Effects Sounds",
+    "path": "folders/Sounds/Effects Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sou_generate_key",

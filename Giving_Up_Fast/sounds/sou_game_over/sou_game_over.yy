@@ -13,8 +13,8 @@
   "soundFile": "sou_game_over.wav",
   "duration": 2.405,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Effects Sounds",
+    "path": "folders/Sounds/Effects Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sou_game_over",

@@ -13,8 +13,8 @@
   "soundFile": "sou_click.wav",
   "duration": 0.181054,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Effects Sounds",
+    "path": "folders/Sounds/Effects Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sou_click",

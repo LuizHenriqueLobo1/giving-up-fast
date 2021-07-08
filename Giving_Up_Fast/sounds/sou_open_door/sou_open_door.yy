@@ -13,8 +13,8 @@
   "soundFile": "sou_open_door.wav",
   "duration": 2.379467,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Effects Sounds",
+    "path": "folders/Sounds/Effects Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sou_open_door",
