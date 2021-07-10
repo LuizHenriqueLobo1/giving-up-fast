@@ -1,1 +1,0 @@
-global.spd_buff = 0;

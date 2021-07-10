@@ -1,1 +1,1 @@
-target_room = room_main_menu;
+target_room = room7;

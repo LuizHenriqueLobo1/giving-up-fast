@@ -14,6 +14,7 @@ global.player_trail = 1;
 global.game_music = 1;
 global.change_music = 1;
 global.current_music = sou_music1;
+global.spd_buff = 0;
 
 audio_play_sound(sou_music1, 1000, true);
 
