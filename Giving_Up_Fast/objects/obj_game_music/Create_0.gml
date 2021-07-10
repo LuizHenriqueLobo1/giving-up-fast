@@ -1,1 +1,0 @@
-audio_play_sound(sou_music3, 1000, true);

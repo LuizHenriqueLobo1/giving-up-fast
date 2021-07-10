@@ -4,7 +4,6 @@
     {"id":{"name":"scr_move","path":"scripts/scr_move/scr_move.yy",},"order":1,},
     {"id":{"name":"obj_enemy_dust","path":"objects/obj_enemy_dust/obj_enemy_dust.yy",},"order":1,},
     {"id":{"name":"spr_enemy_dust","path":"sprites/spr_enemy_dust/spr_enemy_dust.yy",},"order":1,},
-    {"id":{"name":"obj_game_music","path":"objects/obj_game_music/obj_game_music.yy",},"order":1,},
     {"id":{"name":"scr_death","path":"scripts/scr_death/scr_death.yy",},"order":5,},
     {"id":{"name":"room_change_player_color","path":"rooms/room_change_player_color/room_change_player_color.yy",},"order":1,},
     {"id":{"name":"obj_play_sound_checkpoint","path":"objects/obj_play_sound_checkpoint/obj_play_sound_checkpoint.yy",},"order":0,},

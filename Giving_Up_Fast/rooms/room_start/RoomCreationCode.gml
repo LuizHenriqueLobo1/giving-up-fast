@@ -12,6 +12,9 @@ global.color_blue = false;
 global.enemy_particles = 1;
 global.player_trail = 1;
 global.game_music = 1;
+global.change_music = 1;
+
+audio_play_sound(sou_music1, 1000, true);
 
 global.part_system = part_system_create();
 part_system_depth(global.part_system, -100);
