@@ -9,5 +9,3 @@ if(global.game_music == 1)
 	draw_sprite(spr_checked, 0, 440, 416);
 else
 	draw_sprite(spr_negative, 0, 440, 418);
-	
-draw_text(24, 24, global.change_music);
