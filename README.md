@@ -1,19 +1,20 @@
-# Giving-Up-Fast
-Meu novo jogo desenvolvido no GameMaker Studio 2.
-
+# Giving Up Fast
 
 ## Sobre
 
-Um jogo em 2D, com mecânicas simples, visão isómetrica e dificuldade desafiadora.
-Desenvolvido no GameMakerStudio 2, usando linguagem GML.
+> Um jogo em 2D, com mecânicas simples e alta dificuldade. Desenvolvido no GameMakerStudio 2, usando linguagem GML.
 
 ## Imagens
 
 Menu Principal
-![Giving Up Fast Main Menu](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/imagens/tela_menu_inicial.PNG)  
+![Giving Up Fast Menu](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/datafiles/images/Giving_Up_Fast_Print_Menu.png)  
 
 Gameplay
-![Giving Up Fast Gameplay](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/imagens/tela_gameplay1.PNG)
+![Giving Up Fast Gameplay](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/datafiles/images/Giving_Up_Fast_Print_Gameplay.png)
+
+### Como jogar?
+
+Clique para baixar a build do jogo: [Giving Up Fast](https://drive.google.com/drive/folders/1DcsM_Q8v9n5LBiKLv0-sUGtG3PnGegF6?usp=sharing)
 
 ### Como contribuir?
 
