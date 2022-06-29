@@ -1,10 +1,10 @@
 # Giving Up Fast
 
-## Sobre
+### Sobre
 
 > Um jogo em 2D, com mecânicas simples e alta dificuldade. Desenvolvido no GameMakerStudio 2, usando linguagem GML.
 
-## Imagens
+### Imagens
 
 Menu Principal
 ![Giving Up Fast Menu](https://github.com/LuizHenriqueLobo1/Giving-Up-Fast/blob/main/datafiles/images/Giving_Up_Fast_Print_Menu.png)  
