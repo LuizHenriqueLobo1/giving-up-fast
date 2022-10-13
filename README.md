@@ -19,7 +19,7 @@ Clique para baixar a build do jogo: [Giving Up Fast](https://drive.google.com/dr
 ### Como contribuir?
 
 __1.__ Crie um repositório local do projeto
-`git clone https://github.com/LuizHenriqueLobo1/Giving-Up-Fast.git`  
+`git clone https://github.com/LuizHenriqueLobo1/giving-up-fast.git`  
 
 __2.__ Selecione o arquivo `Giving_Up_Fast.yyp` na escolha de projetos do GameMaker Studio 2  
 
